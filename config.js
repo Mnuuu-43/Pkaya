@@ -31,7 +31,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "94763079634",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "RAVINDU_MD",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ RAVINDU_MD*",
+DESCRIPTION: process.env.DESCRIPTION || "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚢 𝚁𝙰𝚅𝙸𝙽𝙳𝚄 𝙰𝙺𝙰𝚂𝙷 🗿",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/kV09yDBR/5813.jpg",
 // add img for alive msg
