@@ -57,7 +57,7 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "true",
+AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
@@ -67,6 +67,6 @@ ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
 ANTI_DEL_PATH: process.env.ANTI_DEL_PATH || "same", 
 // change it to 'same' if you want to resend deleted message in same chat 
-AUTO_RECORDING: process.env.AUTO_RECORDING || "false"
+AUTO_RECORDING: process.env.AUTO_RECORDING || "true"
 // make it true for auto recoding 
 };
